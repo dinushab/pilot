@@ -1,0 +1,6 @@
+D:\Projects\PetProjects\Ch14Ex3\Ch14Ex3\Ch14Ex3\bin\Debug\Ch14Ex3.exe.config
+D:\Projects\PetProjects\Ch14Ex3\Ch14Ex3\Ch14Ex3\bin\Debug\Ch14Ex3.exe
+D:\Projects\PetProjects\Ch14Ex3\Ch14Ex3\Ch14Ex3\bin\Debug\Ch14Ex3.pdb
+D:\Projects\PetProjects\Ch14Ex3\Ch14Ex3\Ch14Ex3\obj\Debug\Ch14Ex3.csprojResolveAssemblyReference.cache
+D:\Projects\PetProjects\Ch14Ex3\Ch14Ex3\Ch14Ex3\obj\Debug\Ch14Ex3.exe
+D:\Projects\PetProjects\Ch14Ex3\Ch14Ex3\Ch14Ex3\obj\Debug\Ch14Ex3.pdb
