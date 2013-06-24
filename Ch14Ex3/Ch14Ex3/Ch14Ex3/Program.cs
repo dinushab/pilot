@@ -16,7 +16,8 @@ namespace Ch14Ex3
     }
 
     class MyClass2
-    {        
+    {
+        
     }
 
     class Program
